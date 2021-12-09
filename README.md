@@ -4,4 +4,4 @@ Different components of ER Diagram, with example
 2) Attributes: Attributes are included in the ER diagram to show the details of the Entiry. It is represented as round circle.
 3) Relationship: it represnt the relationship between identity and attributes. it is of many types like one to many, one to one etc.
 >>ER diagram :
-
+![](image.png)
